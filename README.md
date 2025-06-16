@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Rostyslav!
 
-Welcome to my GitHub! I'm a passionate **Python developer** actively growing in the IT field and currently working as a **Junior Python Developer at COAX**.
+Welcome to my GitHub! I'm a passionate **Python developer** actively growing in the IT field and currently working as a **[Junior Python Developer at COAX](https://coaxsoft.com/)**.
 
 ## 👨‍💻 About Me
 
